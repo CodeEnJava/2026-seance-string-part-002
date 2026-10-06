@@ -1,4 +1,5 @@
-# 2026-seance-string-part-00
+# 2026-seance-string-part-002
+
 # 🐍 Mini-projet – Générateur d'identifiant
 
 ## Manipulation des variables, chaînes de caractères et modulo
