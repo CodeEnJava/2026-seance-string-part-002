@@ -1,5 +1,7 @@
 prenom = "jean philippe"
-nom = "durant"
+nom = "dos santos"
+
+MAX_NUM_ID = 80
 
 print (nom)
 print (prenom)
@@ -24,17 +26,18 @@ partie_nom= nom [ : longueur_nom//2].upper()
 
 numero = 3 * longueur_prenom + 5 * longueur_nom
 
-print(numero % 2)
-# %2 signifie si le nombre est pair
+# print(numero % 2)
+# # %2 signifie si le nombre est pair
+#
+# print(numero % 5)
+# #le %5 renvoie la valeur du chiffre des unitées % 5
+#
+# print(numero % 10)
+# # le %10 affiche le chiffre des unités
+#
+# print(numero % 80)
 
-print(numero % 5)
-#le %5 renvoie la valeur du chiffre des unitées % 5
-
-print(numero % 10)
-# le %10 affiche le chiffre des unités
-
-print(numero % 80)
-
+numero %= MAX_NUM_ID
 
 print( partie_prenom + "-" + partie_nom + "-" + str(numero) )
 
