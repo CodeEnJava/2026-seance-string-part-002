@@ -4,7 +4,6 @@ Mini projet - générateur d'identifiant
 Module de NAFAA Yassine.
 
 """
-from ast import Str
 
 prenom = input("Entrez votre prénom: ")
 nom = input("Entrez votre nom: ")
@@ -14,8 +13,9 @@ longueur_nom = len(nom)
 
 numero_id = 3 * longueur_prenom + 5 * longueur_nom
 
-if numero_id > 80:
-    numero_id = 80
+print(numero_id)
+numero_max = 80
+numero_id = numero_id % 80
 
 identifiant = prenom[:longueur_prenom//2] + "-" + nom[:longueur_nom//2] + "-" + str(numero_id)
 
