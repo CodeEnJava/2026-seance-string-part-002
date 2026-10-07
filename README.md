@@ -8,7 +8,7 @@
 
 ## 🎯 Objectif
 
-Ce mini-projet permet de réinvestir les notions étudiées dans les séances précédentes et de réaliser un premier **module Python** avec l'éditeur **IDLE**.
+Ce mini-projet permet de réinvestir les notions étudiées dans les séances précédentes et de réaliser un premier **module Python** avec l'éditeur **PYCHARM**.
 
 L'objectif est de créer un programme capable de générer automatiquement un identifiant à partir du **prénom** et du **nom** d'une personne.
 
