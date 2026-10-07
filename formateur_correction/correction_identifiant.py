@@ -2,6 +2,7 @@
 Voici la correction du mini projet
 
 pas maintenant...
+La correction sera réalisée le lundi 12 ocobre 
 
 """
 
