@@ -1,4 +1,4 @@
-#ce module à pour responsabilité de gérer les constantes du logiciel
+# Ce module à pour responsabilité de gérer les constantes du logiciel
 # -------------------------------
 # Les constantes
 # -------------------------------
