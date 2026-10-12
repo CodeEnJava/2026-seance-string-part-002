@@ -1,4 +1,4 @@
-# La responsabilité de ced module est d'afficher vers la console
+# La responsabilité de ce module est d'afficher vers la console
 # la fiche qui fait un rec sur un ID
 
 
