@@ -15,3 +15,8 @@ Nota : si après avoir appuyé sur le bouton commit, on a le message 'Select fil
 """
 
 print("test")
+
+id = 1000
+print(f"id = {id}")
+
+
